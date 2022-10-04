@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/minhun_kang/" target="_blank"><img src="https://img.shields.io/badge/minhun_kang-#E4405F?style=flat-square&logo=42&logoColor=#E4405F"/></a>
+<a href="https://www.instagram.com/minhun_kang/" target="_blank"><img src="https://img.shields.io/badge/minhun_kang-#E4405F?style=flat-square&logo=Instagram&logoColor=#FF269E"></a>
 
 <!--
 **kangminhun/kangminhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
