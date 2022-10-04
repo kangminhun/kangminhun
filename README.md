@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/minhun_kang/" target="_blank"><img src="https://img.shields.io/badge/minhun_kang-#E4405F?style=flat-square&logo=Instagram&logoColor=#E4405F"/></a>
-
-<img alt="Csharp" src ="https://img.shields.io/badge/minhun_kang-#E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=#E4405F"/>
+<!-- <a href="https://www.instagram.com/minhun_kang/" target="_blank"><img src="https://img.shields.io/badge/minhun_kang-#E4405F?style=flat-square&logo=Instagram&logoColor=#E4405F"/></a> -->
 
 <!--
 **kangminhun/kangminhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-<a href="https://www.instagram.com/minhun_kang/" target="_blank"><img src="https://img.shields.io/badge/minhun_kang-#E4405F?style=flat-square&logo=Instagram&logoColor=#FF269E"></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/리액트-61DAFB?style=flat&logo=React&logoColor=white"/>
